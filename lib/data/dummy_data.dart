@@ -12,7 +12,7 @@ const availableCategories = [
   ),
   Category(
     id: 'c2',
-    title: 'Quick & Easy',
+    title: 'Athletics',
     color: Colors.red,
   ),
   Category(
